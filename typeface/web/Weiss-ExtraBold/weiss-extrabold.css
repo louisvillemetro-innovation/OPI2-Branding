@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'WeissExtraBoldExtraBold';
+    src: url('weiss-extrabold.eot');
+    src: url('weiss-extrabold.eot') format('embedded-opentype'),
+         url('weiss-extrabold.woff') format('woff'),
+         url('weiss-extrabold.ttf') format('truetype'),
+         url('weiss-extrabold.svg#WeissExtraBoldExtraBold') format('svg');
+}

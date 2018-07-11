@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'WeissBoldRegular';
+    src: url('weiss-bold.eot');
+    src: url('weiss-bold.eot') format('embedded-opentype'),
+         url('weiss-bold.woff') format('woff'),
+         url('weiss-bold.ttf') format('truetype'),
+         url('weiss-bold.svg#WeissBoldRegular') format('svg');
+}
